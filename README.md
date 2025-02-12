@@ -1,7 +1,7 @@
 # Hey, It's Aryan Singh here 👋
 
 I am a full stack AI web developer. I made websites using Supabase, Payments Integrations (for example; paypal, phonepe, stripe...), webhooks and Personalized Portfolios. 
-<img src = https://i.postimg.cc/NMyktgkQ/freepik-3d-modern-green-business-halfpage-banner-20250121153307-Pp-Z5.png>
+<img src = https://i.ibb.co/ymDZZrTy/freepik-3d-modern-green-business-halfpage-banner-20250121153307-Pp-Z5.jpg>
 
 
 ## 
