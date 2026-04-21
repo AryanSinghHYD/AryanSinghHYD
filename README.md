@@ -18,7 +18,7 @@ During 2023, I had the opportunity to work with many minicorns and individual bu
 
 ## Hacking
 
-I am into using exploits and way to get into systems to find and report any faults. I use my skills to teach others how to prevent from these hacks. I mostly use DNS poisoners, a macro linked to a Word Document or a BadUSB to demonstrate how people get hacked and how they cab prevent it.
+I am into using exploits and ways to get into systems to find and report any faults. I use my skills to teach others how to prevent from these hacks. I mostly use DNS poisoners, a macro linked to a Word Document or a BadUSB to demonstrate how people get hacked and how they can prevent it.
 
 
 Alongside learning these skills, I have also developed skills like OSINT, and more.
