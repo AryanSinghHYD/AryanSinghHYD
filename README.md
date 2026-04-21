@@ -1,6 +1,6 @@
 # Hey there, It's Aryan here 👋
 
-I'm a full stack AI web develope and have made websites using Supabase, Payments Integrations (for example; paypal, phonepe, stripe...), webhooks for businesses and also Personalized Portfolios for my clients. 
+I'm a full stack AI web developer and have made websites using Supabase, Payments Integrations (for example; paypal, phonepe, stripe...), webhooks for businesses and also Personalized Portfolios for my clients. 
 <img src = https://i.ibb.co/ymDZZrTy/freepik-3d-modern-green-business-halfpage-banner-20250121153307-Pp-Z5.jpg>
 
 
